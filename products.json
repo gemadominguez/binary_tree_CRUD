@@ -1,0 +1,37 @@
+{
+    "1": {
+        "id": 1,
+        "name": "chocolate",
+        "price": 0.99,
+        "quantity": 50,
+        "category": "comida"
+    },
+    "2": {
+        "id": 2,
+        "name": "libro",
+        "price": 10.0,
+        "quantity": 50,
+        "category": "ocio"
+    },
+    "3": {
+        "id": 3,
+        "name": "agua",
+        "price": 0.5,
+        "quantity": 50,
+        "category": "comida"
+    },
+    "4": {
+        "id": 4,
+        "name": "jersey",
+        "price": 15.0,
+        "quantity": 50,
+        "category": "ropa"
+    },
+    "5": {
+        "id": 5,
+        "name": "portatil",
+        "price": 1500.0,
+        "quantity": 50,
+        "category": "ocio"
+    }
+}
